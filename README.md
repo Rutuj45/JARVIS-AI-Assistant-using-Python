@@ -1,7 +1,7 @@
 # JARVIS-AI-Assistant-using-Python
-It is an AI Assistant which is basically use to do our daily work such like searching in chrome , update of your CPU and much more work related to daily work.
+JARVIS-AI-Assistant-using-Python is a Python-based AI assistant designed to perform various daily activities for the user. It uses various APIs and modules to provide features .To implement these features, JARVIS-AI-Assistant-using-Python uses various APIs and modules, such as the datetime, pyautogui, psutil, and webbrowser modules, among others. By integrating these modules into a cohesive AI assistant, JARVIS can provide a user-friendly interface for users to perform various tasks with ease.
 
-## FEATURES OF JARVIS:
+# FEATURES OF JARVIS:
 - Greet the user(as per the time)
 - Convey Current Date & Time 
 - Take Screenshot 
